@@ -15,7 +15,8 @@
 
 ### 📫 How to Reach Me
 - **Email**: varshap2205@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/Varshap2205](https://www.linkedin.com/in/Varshap2205)  
+- **LinkedIn**: [www.linkedin.com/in/Varshap2205](https://www.linkedin.com/in/Varshap2205)
+- **LinkTree**: [https://linktr.ee/varshap2205](https://linktr.ee/varshap2205)
 
 
 ---
