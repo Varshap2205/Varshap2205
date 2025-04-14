@@ -27,27 +27,46 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&theme=dark" alt="Varsha's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshap2205&theme=dark" />
-</p>
+
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshap2205&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⌛ WakaTime Stats
+## ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varshap2205&theme=dark" />
 </p>
+<!--END_SECTION:waka-->
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/varshap2205?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+
+
 
 
 
 ---
 
-### 📌 Pinned Projects
-> *(You can pin them manually on GitHub from your profile → customize your pinned repos)*
 
----
 
 Made with 💜 by Varsha
