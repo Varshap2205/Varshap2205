@@ -14,9 +14,18 @@
 ---
 
 ### 📫 How to Reach Me
-- **Email**: varshap2205@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/Varshap2205](https://www.linkedin.com/in/Varshap2205)
-- **LinkTree**: [https://linktr.ee/varshap2205](https://linktr.ee/varshap2205)
+
+<p align="center">
+  <a href="mailto:varshap2205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/Varshap2205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/varshap2205" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-43E55C?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
 
 
 ---
