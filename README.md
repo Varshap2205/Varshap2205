@@ -52,6 +52,10 @@
   </tr>
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshap2205&show_icons=true&locale=en&layout=compact" alt="varshap2205" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&locale=en" alt="varshap2205" /></p>
+
 ---
 
 ## ⏱️ WakaTime Stats
