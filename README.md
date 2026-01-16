@@ -39,9 +39,9 @@
 
 
 
-## GitHub Stats
+<!--## GitHub Stats-->
 
-<table>
+<!--<table>
   <tr>
     <td>
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Varshap2205&show_icons=true&theme=dark" />
@@ -57,16 +57,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&locale=en" alt="varshap2205" /></p>
 
 ---
+-->
 
-## ⏱️ WakaTime Stats
+<!--## ⏱️ WakaTime Stats-->
 
 <!--START_SECTION:waka-->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varshap2205&theme=dark" />
 </p>
 <!--END_SECTION:waka-->
-
----
 
 ## 🧠 LeetCode Stats
 
