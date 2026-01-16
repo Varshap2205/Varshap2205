@@ -44,10 +44,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Varshap2205&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshap2205&layout=compact&theme=dark" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshap2205&layout=compact&theme=dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
