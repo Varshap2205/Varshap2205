@@ -41,29 +41,29 @@
 
 <!--## GitHub Stats-->
 
-<!--<table>
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Varshap2205&show_icons=true&theme=dark" />
+      <img src="https://github-readme-stats-nu-five-51.vercel.app/api?username=Varshap2205&show_icons=true&theme=dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varshap2205&layout=compact&theme=dark" />
+      <img src="https://github-readme-stats-nu-five-51.vercel.app/api/top-langs/?username=Varshap2205&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshap2205&show_icons=true&locale=en&layout=compact" alt="varshap2205" /></p>
+<p><img align="left" src="https://github-readme-stats-nu-five-51.vercel.app/api/top-langs?username=varshap2205&show_icons=true&locale=en&layout=compact" alt="varshap2205" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshap2205&show_icons=true&locale=en" alt="varshap2205" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-nu-five-51.vercel.app/api?username=varshap2205&show_icons=true&locale=en" alt="varshap2205" /></p>
 
 ---
--->
+
 
 <!--## ⏱️ WakaTime Stats-->
 
 <!--START_SECTION:waka-->
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=varshap2205&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats-nu-five-51.vercel.app/api/wakatime?username=varshap2205&theme=dark" />
 </p>
 <!--END_SECTION:waka-->
 
